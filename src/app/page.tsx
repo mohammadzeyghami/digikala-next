@@ -1,5 +1,18 @@
 import Image from "next/image";
+import Layout from "./Layout/index";
+import MainSidebar from "@/organisms/MainSidebar";
+import MainFooter from "@/organisms/MainFooter";
+import MainNavbar from "@/organisms/MainNavbar";
+import RoundedCategoryWrapper from "@/Molecules/RoundedCategoryWrapper";
 
 export default function Home() {
-  return <div className="w-full h-full flex flex-col">test</div>;
+  return (
+    <Layout
+      Sidebar={() => <MainSidebar />}
+      footer={() => <MainFooter />}
+      Navbar={() => <MainNavbar />}
+    >
+      <RoundedCategoryWrapper />
+    </Layout>
+  );
 }
