@@ -1,4 +1,4 @@
-import Categoryitem from "@/components/Categoryitem";
+import Categoryitem from "@/atoms/Categoryitem";
 import Image from "next/image";
 import React from "react";
 interface Iprops {
@@ -6,7 +6,7 @@ interface Iprops {
 }
 const CategoryItems = ({ data }: Iprops) => {
   return (
-    <div className="flex gap-[50px]">
+    <div className="flex gap-[90px]">
       <Categoryitem />
       <Categoryitem />
       <Categoryitem />

@@ -9,7 +9,7 @@ interface Iprops {
 }
 const Layout = ({ children, Sidebar, footer, Navbar }: Iprops) => {
   return (
-    <div className="flex justify-center w-full">
+    <div className="flex justify-center w-full overflow-x-hidden">
       <div className="w-full h-full flex items-center flex-col max-w-[1950px] ">
         {/* Header */}
         <div className="w-full  flex border-b-2 px-[50px]">{Navbar()}</div>
