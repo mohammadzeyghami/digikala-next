@@ -23,19 +23,19 @@ const MultiItemSwiper = () => {
         className="mySwiper w-full h-[350px] max-w-[1300px] mb-[50px]"
       >
         <SwiperSlide>
-          <div className="w-[300px] h-[300px] bg-[blue]"></div>
+          <div className="w-[300px] h-[300px] rounded-md bg-[blue]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-[300px] h-[300px] bg-[blue]"></div>
+          <div className="w-[300px] h-[300px] rounded-md bg-[blue]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-[300px] h-[300px] bg-[blue]"></div>
+          <div className="w-[300px] h-[300px] rounded-md bg-[blue]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-[300px] h-[300px] bg-[blue]"></div>
+          <div className="w-[300px] h-[300px] rounded-md bg-[blue]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-[300px] h-[300px] bg-[blue]"></div>
+          <div className="w-[300px] h-[300px] rounded-md bg-[blue]"></div>
         </SwiperSlide>
       </Swiper>
     </div>

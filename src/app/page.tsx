@@ -25,7 +25,7 @@ export default function Home() {
       <RoundedCategoryWrapper />
       <MultiSection />
       <DoubleBanner />
-      <ProductsSug />
+      {/* <ProductsSug /> */}
     </Layout>
   );
 }

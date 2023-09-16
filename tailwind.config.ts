@@ -12,6 +12,9 @@ const config: Config = {
       screens: {
         xl: "1021px",
       },
+      borderRadius: {
+        md: "18px",
+      },
     },
   },
   plugins: [],
