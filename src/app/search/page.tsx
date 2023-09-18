@@ -45,6 +45,51 @@ const index = () => {
         <SearchItem />
         <SearchItem />
         <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
+        <SearchItem />
       </div>
     </Layout>
   );
